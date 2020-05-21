@@ -1,0 +1,4 @@
+hello ninja
+second line
+this is a sentence
+this is another sentence

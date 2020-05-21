@@ -1,0 +1,3 @@
+Hello, yet another new file!
+Hello, this is appended text!
+Hello, this is appended text!
